@@ -5,7 +5,7 @@ const SingleComment = () => {
     return(
         <div className='comment'>
         <a href="/" className='avatar'>
-          <img src={profile1} alt="profile picture" />
+          <img src={profile1} alt="profile" />
         </a>
         <div className='content'>
           <a href="/" className='author'>
