@@ -6,6 +6,7 @@ const App = () => {
     return(
         <div className='ui comments'>
           <SingleComment />
+          <SingleComment />
         </div>
     )
 }
