@@ -7,6 +7,8 @@ const App = () => {
         <div className='ui comments'>
           <SingleComment />
           <SingleComment />
+          <SingleComment />
+          <SingleComment />
         </div>
     )
 }
